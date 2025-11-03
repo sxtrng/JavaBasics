@@ -40,7 +40,5 @@ public class FirstString {
         } else {
             System.out.println(one + " does not equal " + one_a + ".");
         }
-        
-
     }
 }
