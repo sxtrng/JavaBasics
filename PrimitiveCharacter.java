@@ -12,7 +12,7 @@ public class PrimitiveCharacter {
         System.out.println("A char is not equal to a one-letter string.");
         System.out.println("A string can hold a single character, but it is still a string.");
         System.out.println("A char is a primitive data type (built into Java) and a String is a class.");
-        System.out.println("2 bytes of memory are used to hold a char.");
+        System.out.println("2 bytes, 16 bits of memory are used to hold a char.");
         System.out.println("Each character corresponds to a Unicode number.");
         System.out.println("ints ranging from 0 to 255 may be assigned to a character data type.");
 
