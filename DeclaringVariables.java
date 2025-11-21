@@ -7,6 +7,7 @@ public class DeclaringVariables {
         System.out.println("The compiler can detect mismatch between types and spelling errors.");
         System.out.println("A variable declaration is a statement and must end with a semicolon.");
         System.out.println("A variable name is an identifer.");
+        System.out.println("The = sign is the assignment operator.  The value is assigned to the variable name.");
         System.o.println("Use self-documenting names like 'numberOfSongs' rather than 'x' or 'n'.");
 
         int x;
